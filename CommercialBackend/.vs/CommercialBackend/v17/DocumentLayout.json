@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CommercialBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|d:\\c#\\commercialbackend\\commercialbackend\\controllers\\deviscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|solutionrelative:commercialbackend\\controllers\\deviscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|d:\\c#\\commercialbackend\\commercialbackend\\repositories\\devisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|solutionrelative:commercialbackend\\repositories\\devisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|d:\\c#\\commercialbackend\\commercialbackend\\repositories\\idevisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|solutionrelative:commercialbackend\\repositories\\idevisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|d:\\c#\\commercialbackend\\commercialbackend\\entities\\devis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|solutionrelative:commercialbackend\\entities\\devis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|d:\\c#\\commercialbackend\\commercialbackend\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|solutionrelative:commercialbackend\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|d:\\c#\\commercialbackend\\commercialbackend\\entities\\devisarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|solutionrelative:commercialbackend\\entities\\devisarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|d:\\c#\\commercialbackend\\commercialbackend\\entities\\categoriearticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|solutionrelative:commercialbackend\\entities\\categoriearticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|d:\\c#\\commercialbackend\\commercialbackend\\sqldb\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|solutionrelative:commercialbackend\\sqldb\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|d:\\c#\\commercialbackend\\commercialbackend\\dtos\\devisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|solutionrelative:commercialbackend\\dtos\\devisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|d:\\c#\\commercialbackend\\commercialbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|solutionrelative:commercialbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|d:\\c#\\commercialbackend\\commercialbackend\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|solutionrelative:commercialbackend\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|d:\\c#\\commercialbackend\\commercialbackend\\commercialbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFD96E4E-2A50-4832-9993-4C2C7BDBA2B9}|CommercialBackend\\CommercialBackend.csproj|solutionrelative:commercialbackend\\commercialbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DevisRepository.cs",
+              "DocumentMoniker": "D:\\C#\\CommercialBackend\\CommercialBackend\\Repositories\\DevisRepository.cs",
+              "RelativeDocumentMoniker": "CommercialBackend\\Repositories\\DevisRepository.cs",
+              "ToolTip": "D:\\C#\\CommercialBackend\\CommercialBackend\\Repositories\\DevisRepository.cs",
+              "RelativeToolTip": "CommercialBackend\\Repositories\\DevisRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:38:54.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DevisArticle.cs",
+              "DocumentMoniker": "D:\\C#\\CommercialBackend\\CommercialBackend\\Entities\\DevisArticle.cs",
+              "RelativeDocumentMoniker": "CommercialBackend\\Entities\\DevisArticle.cs",
+              "ToolTip": "D:\\C#\\CommercialBackend\\CommercialBackend\\Entities\\DevisArticle.cs",
+              "RelativeToolTip": "CommercialBackend\\Entities\\DevisArticle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:13:29.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Article.cs",
+              "DocumentMoniker": "D:\\C#\\CommercialBackend\\CommercialBackend\\Entities\\Article.cs",
+              "RelativeDocumentMoniker": "CommercialBackend\\Entities\\Article.cs",
+              "ToolTip": "D:\\C#\\CommercialBackend\\CommercialBackend\\Entities\\Article.cs",
+              "RelativeToolTip": "CommercialBackend\\Entities\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:52:49.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DevisController.cs",
+              "DocumentMoniker": "D:\\C#\\CommercialBackend\\CommercialBackend\\Controllers\\DevisController.cs",
+              "RelativeDocumentMoniker": "CommercialBackend\\Controllers\\DevisController.cs",
+              "ToolTip": "D:\\C#\\CommercialBackend\\CommercialBackend\\Controllers\\DevisController.cs",
+              "RelativeToolTip": "CommercialBackend\\Controllers\\DevisController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAwF0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:13:31.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\C#\\CommercialBackend\\CommercialBackend\\sqlDb\\DataContext.cs",
+              "RelativeDocumentMoniker": "CommercialBackend\\sqlDb\\DataContext.cs",
+              "ToolTip": "D:\\C#\\CommercialBackend\\CommercialBackend\\sqlDb\\DataContext.cs",
+              "RelativeToolTip": "CommercialBackend\\sqlDb\\DataContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:15:28.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C#\\CommercialBackend\\CommercialBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "CommercialBackend\\appsettings.json",
+              "ToolTip": "D:\\C#\\CommercialBackend\\CommercialBackend\\appsettings.json",
+              "RelativeToolTip": "CommercialBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T22:56:00.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Devis.cs",
+              "DocumentMoniker": "D:\\C#\\CommercialBackend\\CommercialBackend\\Entities\\Devis.cs",
+              "RelativeDocumentMoniker": "CommercialBackend\\Entities\\Devis.cs",
+              "ToolTip": "D:\\C#\\CommercialBackend\\CommercialBackend\\Entities\\Devis.cs",
+              "RelativeToolTip": "CommercialBackend\\Entities\\Devis.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:52:31.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDevisRepository.cs",
+              "DocumentMoniker": "D:\\C#\\CommercialBackend\\CommercialBackend\\Repositories\\IDevisRepository.cs",
+              "RelativeDocumentMoniker": "CommercialBackend\\Repositories\\IDevisRepository.cs",
+              "ToolTip": "D:\\C#\\CommercialBackend\\CommercialBackend\\Repositories\\IDevisRepository.cs",
+              "RelativeToolTip": "CommercialBackend\\Repositories\\IDevisRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:39:24.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DevisDto.cs",
+              "DocumentMoniker": "D:\\C#\\CommercialBackend\\CommercialBackend\\Dtos\\DevisDto.cs",
+              "RelativeDocumentMoniker": "CommercialBackend\\Dtos\\DevisDto.cs",
+              "ToolTip": "D:\\C#\\CommercialBackend\\CommercialBackend\\Dtos\\DevisDto.cs",
+              "RelativeToolTip": "CommercialBackend\\Dtos\\DevisDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:24:06.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategorieArticle.cs",
+              "DocumentMoniker": "D:\\C#\\CommercialBackend\\CommercialBackend\\Entities\\CategorieArticle.cs",
+              "RelativeDocumentMoniker": "CommercialBackend\\Entities\\CategorieArticle.cs",
+              "ToolTip": "D:\\C#\\CommercialBackend\\CommercialBackend\\Entities\\CategorieArticle.cs",
+              "RelativeToolTip": "CommercialBackend\\Entities\\CategorieArticle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:08:21.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\C#\\CommercialBackend\\CommercialBackend\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "CommercialBackend\\Entities\\Client.cs",
+              "ToolTip": "D:\\C#\\CommercialBackend\\CommercialBackend\\Entities\\Client.cs",
+              "RelativeToolTip": "CommercialBackend\\Entities\\Client.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:41:45.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommercialBackend",
+              "DocumentMoniker": "D:\\C#\\CommercialBackend\\CommercialBackend\\CommercialBackend.csproj",
+              "RelativeDocumentMoniker": "CommercialBackend\\CommercialBackend.csproj",
+              "ToolTip": "D:\\C#\\CommercialBackend\\CommercialBackend\\CommercialBackend.csproj",
+              "RelativeToolTip": "CommercialBackend\\CommercialBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T13:14:15.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
